@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-  <version>1.0.11.0</version>
-  <url>https://github.com/JuaniAvverame/UpdatesExcellent/releases/download/v1.0.11.0/XGnet.exe</url>
+  <version>1.0.13.0</version>
+  <url>https://github.com/JuaniAvverame/UpdatesExcellent/releases/download/v1.0.13.0/XGnet.exe</url>
   <mandatory>false</mandatory>
   <changelog>Prueba de popup de actualización</changelog>
 
@@ -11,6 +11,7 @@
         - Ajustamos detalles en cara a la implementacion.
     </details>
 </item>
+
 
 
 
